@@ -1,0 +1,4 @@
+Jānis,Ozols,admin,18
+Artūrs,Kalninš,admin,19
+Kristaps,Balodis,admin,55
+Andrejs,Upits,admin,21
